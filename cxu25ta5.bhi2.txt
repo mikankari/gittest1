@@ -1,0 +1,32 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   test1/.classpath
+#	new file:   test1/.project
+#	new file:   test1/AndroidManifest.xml
+#	new file:   test1/ic_launcher-web.png
+#	new file:   test1/libs/android-support-v4.jar
+#	new file:   test1/proguard-project.txt
+#	new file:   test1/project.properties
+#	new file:   test1/res/drawable-hdpi/ic_launcher.png
+#	new file:   test1/res/drawable-mdpi/ic_launcher.png
+#	new file:   test1/res/drawable-xhdpi/ic_launcher.png
+#	new file:   test1/res/drawable-xxhdpi/ic_launcher.png
+#	new file:   test1/res/layout/activity_main.xml
+#	new file:   test1/res/layout/activity_main2.xml
+#	new file:   test1/res/layout/fragment_main.xml
+#	new file:   test1/res/menu/main.xml
+#	new file:   test1/res/menu/main2.xml
+#	new file:   test1/res/values-v11/styles.xml
+#	new file:   test1/res/values-v14/styles.xml
+#	new file:   test1/res/values-w820dp/dimens.xml
+#	new file:   test1/res/values/dimens.xml
+#	new file:   test1/res/values/strings.xml
+#	new file:   test1/res/values/styles.xml
+#	new file:   test1/src/com/example/gittest1/Main2Activity.java
+#
+
